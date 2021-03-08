@@ -1,32 +1,15 @@
-# Pterodactyl
-Pterodactyl is an open-source game server management panel built with PHP 7, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users. 
-
-This EGG was tested on Pterodactyl version 0.7 and 1.0 - All works
-
-# Game
+# Jogo
 https://store.steampowered.com/app/892970/Valheim/
 
-A battle-slain warrior, the Valkyries have ferried your soul to Valheim, the tenth Norse world. Besieged by creatures of chaos and ancient enemies of the gods, you are the newest custodian of the primordial purgatory, tasked with slaying Odin’s ancient rivals and bringing order to Valheim.
+Um guerreiro de guerra, as Valquírias transportaram sua alma para Valheim, o décimo mundo nórdico. Sitiado por criaturas de caos e antigos inimigos dos deuses, você é o mais novo guardião do purgatório primordial, encarregado de matar os antigos rivais de Odin e trazer ordem a Valheim.
 
-# How to use 
-To use this script, just do as any other, however there are a few things that must be followed.
+# Como Usar
+Se seu jogo não está na pasta padrão (C:/Program Files (x86)/Steam/steamapps/common/valheim), você precisará saber aonde ele foi instalado, quando descobrir, copie o diretório clicando em um espaço vazio na barra de endereço, e quado for requisitado cole no CMD utilizando o botão direito do mouse.
 
-1. Open Pterodactyl Panel > Go to Nests > Import Egg > Import egg-valheim_umod.json > Done!
-2. When you install a server and choose the port, you must release the next port also, example: 2456 and 2457
+1. Vá até https://github.com/CastBlacKing/ValheimPlus_VPlusInstall/releases/tag/1.0.0, baixe a ultima versão do instalador e execute-a.
+2. Seu antivirus ou seu navegador pode acusar o programa como prejudicial ao computador, mas isto é por que eu não coloque uma licença no programa, então o Windows detecta como não licenciado.
 
-# How to Auto Update
-1. All - Set Auto Update Variable to 1
-2. Only Plugins - Set Auto Update Variable to 0 > Set Update Plugins to 1
-3. IF your server has any errors when Auto-Update, go to Settings, and click REINSTALL SERVER. **(DON'T WORRY, YOUR SERVER WON'T HAVE ANY CORRUPTED OR DELETED FOLDERS, IT WILL JUST BE UPDATED!)**
+### Links Úteis
+ValheimPlus: https://github.com/valheimPlus/ValheimPlus
 
-### How to Update EGG (500 Error Code)
-1. Delete OLD egg.
-2. Upload NEW egg.
-
-## Credits
-CastBlacKing, Softwarenoob (Update System)
-
-### Links
-https://hub.docker.com/repository/docker/castblacking/umod-valheim
-
-https://umod.org
+Discord da Comunidade: https://discord.gg/BjeTBv6pxe
