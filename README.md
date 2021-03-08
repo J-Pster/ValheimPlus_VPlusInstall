@@ -1,4 +1,4 @@
-# Jogo
+# Sobre o Jogo
 https://store.steampowered.com/app/892970/Valheim/
 
 Um guerreiro de guerra, as Valquírias transportaram sua alma para Valheim, o décimo mundo nórdico. Sitiado por criaturas de caos e antigos inimigos dos deuses, você é o mais novo guardião do purgatório primordial, encarregado de matar os antigos rivais de Odin e trazer ordem a Valheim.
